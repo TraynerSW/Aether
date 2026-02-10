@@ -9,7 +9,7 @@
 ## Progression
 
 ### Wave 1 - Foundation
-- [ ] Task 1: Setup Architecture Projet
+- [x] Task 1: Setup Architecture Projet (COMPLETED - 2026-02-10)
 - [ ] Task 2: Core Chiffrement libsodium
 - [ ] Task 3: SQLite Schema Serveur
 - [ ] Task 4: React Native Base Project
