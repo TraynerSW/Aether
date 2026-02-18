@@ -42,8 +42,7 @@ public class Server {
 				PrintWriter msgServ = new PrintWriter(out, true);		// True permet d'envoyer le msg direct au client connecté
 				msgServ.println("Bienvenue " + client.getLocalAddress().getHostAddress() + ":" + client.getLocalPort() + " !");
 			}
-		}
-		catch (Exception e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
