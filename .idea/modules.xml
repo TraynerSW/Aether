@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aether.iml" filepath="$PROJECT_DIR$/Aether.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aether-Client/Aether-Client.iml" filepath="$PROJECT_DIR$/Aether-Client/Aether-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aether-Server/Aether-Server.iml" filepath="$PROJECT_DIR$/Aether-Server/Aether-Server.iml" />
     </modules>
   </component>
 </project>
